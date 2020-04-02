@@ -1,2 +1,2 @@
-#Common C Programs in Python
-I'm implementing intermediate C Language Programs in Python and trying to use Lease to nothing builtin functions for that as possible to increase my python Knowlege
+Common C Programs in Python
+I'm coding some Programs in Python and trying to use Least builtin functions for that as possible to increase my programming Knowlege
