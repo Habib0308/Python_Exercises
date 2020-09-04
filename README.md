@@ -8,4 +8,7 @@ Practicing Python Exercises From the Link: [W3resource](https://www.w3resource.c
 
 [Dealing with Loops](https://github.com/habibanalytics/Python_Exercises/blob/master/Loops.ipynb)
 
+try out these experiments too:
+[Printing Patterns using loops](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/README.md)
+
 
