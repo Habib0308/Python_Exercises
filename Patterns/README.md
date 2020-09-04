@@ -18,7 +18,7 @@
 1234567
 ```
 
-```
+
 [pattern 3](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns3.py)
 ```
 A
@@ -27,6 +27,7 @@ C C C
 D D D D
 E E E E E
 ```
+
 [pattern 4](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns4.py)
 ```
 * * * * *
@@ -35,6 +36,7 @@ E E E E E
 * *
 *
 ```
+
 [pattern 5](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns5.py)
 ```
 1 2 3 4 5
@@ -43,6 +45,7 @@ E E E E E
 1 2
 1
 ```
+
 [pattern 6](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns6.py)
 ```
         *
@@ -51,6 +54,7 @@ E E E E E
   * * * * * * *
 * * * * * * * * *
 ```
+
 [pattern 7](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns7.py)
 ```
 * * * * * * * * *
@@ -59,6 +63,7 @@ E E E E E
       * * *
         *
 ```
+
 [pattern 8](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns8.py)
 ```
            1
