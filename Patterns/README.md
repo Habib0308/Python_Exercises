@@ -8,7 +8,8 @@
 * * * * *
 ```
 [pattern 2](https://github.com/habibanalytics/Python_Exercises/blob/master/Patterns/PrintingPatterns2.py)
-`1
+```
+1
 12
 123
 1234
