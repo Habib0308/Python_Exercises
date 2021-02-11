@@ -9,8 +9,7 @@
 * Logical Operators
 * Membership Operators
 * Identity Operators
-* Examples on Conditions
-* Comparing Sequences and Other Types
+* Examples
  
 ## Boolean variable
 ```
