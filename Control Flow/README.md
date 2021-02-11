@@ -1,17 +1,8 @@
-## Links used for this:
-* [Python - Basic Operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
-* [if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-## Exercises from
-if else (part 1)" 
-* [C Programming Exercises: Conditional Statement](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php)
-if else (part 2): 
-* [Python Basic (Part -I)](https://www.w3resource.com/python-exercises/python-basic-exercises.php) (Picky questions)
-## Hackerrank Problem(S)
-[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
-## Aticles
-[]()
+# List of topics
+1. if else
+2. loops (not yet)
 
-# Topics
+# if else - Topics
 * IF Statement
 * Boolean variable
 * Comparison Operators
@@ -69,7 +60,18 @@ print(a is b)
 print(a is not b)
 print(type(a) is str)
 ```
-
-# Solved Exercises - if else
+## Links used for this:
+* [Python - Basic Operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+* [if Statements - python docs](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+### Articles
+[]()
+### Exercises sources
+if else (part 1)" 
+* [C Programming Exercises: Conditional Statement](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php)
+if else (part 2): 
+* [Python Basic (Part -I)](https://www.w3resource.com/python-exercises/python-basic-exercises.php) (Picky questions)
+### Hackerrank Problem(S)
+[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+### Solved Exercises - if else
 * [part 1]()
 * [part 2](https://github.com/habibanalytics/Python_Exercises/blob/master/Control%20Flow/if_else_2.ipynb)
