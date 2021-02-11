@@ -18,7 +18,7 @@ true= True
 false= False
 ```
 
-# Comparison Operators
+## Comparison Operators
 ```
 print(true==false)
 print(true!=false)
@@ -29,13 +29,13 @@ print(x<y)
 print(x<=y)
 print(x>=y)
 ```
-# Logical Operators
+## Logical Operators
 ```
 print(true!=false and x<y)
 print(true!=false or x>y)
 print(not true!=false)
 ```
-# Membership Operators
+## Membership Operators
 ```
 a = 10
 b = 20
@@ -50,7 +50,7 @@ else:
    print("b's in the list")
 ```
 
-# Identity Operators
+## Identity Operators
 They are usually used to determine the type of data a certain variable contains.
 ```
 a= "123"
@@ -61,17 +61,18 @@ print(a is not b)
 print(type(a) is str)
 ```
 ## Links used for this:
+
+### Reading material
 * [Python - Basic Operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
 * [if Statements - python docs](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-### Articles
-[]()
+* []()
 ### Exercises sources
 if else (part 1)" 
 * [C Programming Exercises: Conditional Statement](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php)
 if else (part 2): 
 * [Python Basic (Part -I)](https://www.w3resource.com/python-exercises/python-basic-exercises.php) (Picky questions)
-### Hackerrank Problem(S)
+### Hackerrank Problem(s)
 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
 ### Solved Exercises - if else
-* [part 1]()
+* [part 1](https://github.com/habibanalytics/Python_Exercises/blob/master/Control%20Flow/if_else_1.ipynb)
 * [part 2](https://github.com/habibanalytics/Python_Exercises/blob/master/Control%20Flow/if_else_2.ipynb)
