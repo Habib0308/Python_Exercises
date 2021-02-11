@@ -64,7 +64,7 @@ print(type(a) is str)
 ### Reading material
 * [Python - Basic Operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
 * [if Statements - python docs](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-* []()
+* [Difference between ‘and’ and ‘&’ in Python](https://www.geeksforgeeks.org/difference-between-and-and-in-python/)
 ### Exercises sources
 if else (part 1)" 
 * [C Programming Exercises: Conditional Statement](https://www.w3resource.com/c-programming-exercises/conditional-statement/index.php)
